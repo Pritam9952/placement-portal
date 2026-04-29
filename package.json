@@ -1,0 +1,10 @@
+{
+  "name": "placement-portal",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm start --prefix placement-portal-frontend\" \"nodemon placement-portal-backend/server.js\""
+  },
+  "dependencies": {
+    "form-data": "^4.0.5"
+  }
+}

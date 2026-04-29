@@ -1,0 +1,4 @@
+node_modules/
+.env
+placement-portal-frontend/node_modules/
+placement-portal-backend/node_modules/
